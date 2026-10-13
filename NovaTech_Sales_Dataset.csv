@@ -1,0 +1,501 @@
+Order Date,Order ID,Region,State,Product Category,Product,Sales (INR),Quantity,Profit (INR),Payment Mode,Sales Channel
+2025-01-01,NT-10447,Central,Madhya Pradesh,Accessories,Wireless Mouse,10695.6,4,828.03,Credit Card,Retail Store
+2025-01-02,NT-10264,South,Tamil Nadu,Audio,Bluetooth Speaker,9523.75,5,893.46,Debit Card,Online
+2025-01-02,NT-10207,Central,Chhattisgarh,Mobiles,NovaPhone Pro,45447.0,1,5363.42,Cash,Retail Store
+2025-01-02,NT-10064,East,Odisha,Accessories,Laptop Sleeve,2294.25,5,144.18,Net Banking,Retail Store
+2025-01-04,NT-10497,East,West Bengal,Mobiles,NovaPhone Lite,181454.75,5,29058.14,Debit Card,Retail Store
+2025-01-04,NT-10326,East,Bihar,Laptops,NovaBook Air,182180.0,4,18344.18,Cash,Retail Store
+2025-01-05,NT-10129,Central,Chhattisgarh,Accessories,Keyboard,11084.0,4,2160.6,Credit Card,Marketplace
+2025-01-05,NT-10416,Central,Uttar Pradesh,Smart Home,Security Camera,21801.6,4,2373.64,Cash,Marketplace
+2025-01-06,NT-10335,North,Haryana,Mobiles,NovaPhone X,38506.35,1,6743.09,Debit Card,Retail Store
+2025-01-09,NT-10098,North,Uttar Pradesh,Audio,Bluetooth Speaker,43371.0,5,7215.25,Credit Card,Marketplace
+2025-01-09,NT-10270,West,Maharashtra,Laptops,NovaBook Air,222254.4,3,19436.5,Debit Card,Online
+2025-01-10,NT-10485,Central,Chhattisgarh,Laptops,NovaBook Go,131755.5,2,18703.47,Debit Card,Retail Store
+2025-01-13,NT-10152,West,Maharashtra,Laptops,NovaBook Air,345258.5,5,32347.54,UPI,Marketplace
+2025-01-13,NT-10379,North,Uttar Pradesh,Audio,Bluetooth Speaker,10259.1,1,1882.72,Cash,Online
+2025-01-14,NT-10051,West,Maharashtra,Smart Home,Security Camera,15046.0,2,2685.86,Cash,Retail Store
+2025-01-15,NT-10135,North,Punjab,Audio,NovaBuds,8271.0,3,1176.56,Cash,Retail Store
+2025-01-15,NT-10093,North,Haryana,Laptops,NovaBook Go,160964.0,2,9158.63,UPI,Retail Store
+2025-01-16,NT-10498,Central,Madhya Pradesh,Mobiles,NovaPhone Lite,229882.5,5,14200.21,UPI,Retail Store
+2025-01-17,NT-10330,East,West Bengal,Mobiles,NovaPhone Pro,66534.6,4,8026.85,Debit Card,Online
+2025-01-18,NT-10353,South,Telangana,Accessories,Wireless Mouse,5247.0,2,554.88,Cash,Retail Store
+2025-01-20,NT-10384,West,Goa,Smart Home,Smart Bulb,20527.5,5,1039.73,UPI,Marketplace
+2025-01-21,NT-10045,North,Delhi,Mobiles,NovaPhone X,208240.0,4,24637.38,Cash,Online
+2025-01-21,NT-10007,South,Karnataka,Mobiles,NovaPhone Pro,140094.6,4,21391.34,UPI,Online
+2025-01-22,NT-10308,North,Punjab,Audio,NovaBuds,2199.0,1,165.36,Cash,Retail Store
+2025-01-22,NT-10026,Central,Madhya Pradesh,Mobiles,NovaPhone X,73075.9,2,9999.55,UPI,Marketplace
+2025-01-23,NT-10483,Central,Uttar Pradesh,Audio,Bluetooth Speaker,4467.6,2,421.52,Debit Card,Marketplace
+2025-01-26,NT-10376,South,Tamil Nadu,Accessories,Keyboard,1432.25,1,254.63,Credit Card,Online
+2025-01-27,NT-10317,North,Punjab,Smart Home,Security Camera,10575.0,5,1665.99,Debit Card,Online
+2025-01-28,NT-10165,East,Jharkhand,Mobiles,NovaPhone Pro,163707.0,3,8821.68,Credit Card,Retail Store
+2025-01-28,NT-10110,South,Telangana,Smart Home,Smart Bulb,14320.0,2,1311.59,Credit Card,Online
+2025-01-29,NT-10150,South,Kerala,Accessories,Keyboard,1772.0,4,156.62,Credit Card,Marketplace
+2025-02-02,NT-10115,Central,Uttar Pradesh,Mobiles,NovaPhone Lite,203732.25,5,40582.28,Cash,Retail Store
+2025-02-02,NT-10306,West,Gujarat,Laptops,NovaBook Pro,62016.0,1,4230.61,UPI,Online
+2025-02-04,NT-10327,South,Kerala,Laptops,NovaBook Pro,73167.1,2,14352.44,Net Banking,Marketplace
+2025-02-04,NT-10059,South,Tamil Nadu,Audio,Bluetooth Speaker,52992.0,5,9408.41,Cash,Online
+2025-02-04,NT-10124,North,Delhi,Accessories,Wireless Mouse,1452.6,2,169.18,Net Banking,Retail Store
+2025-02-05,NT-10151,West,Maharashtra,Smart Home,Smart Plug,7938.0,3,680.81,Cash,Retail Store
+2025-02-05,NT-10382,South,Kerala,Laptops,NovaBook Air,139364.3,2,9204.21,Cash,Online
+2025-02-06,NT-10338,West,Rajasthan,Accessories,Laptop Sleeve,14881.8,4,827.72,Debit Card,Retail Store
+2025-02-06,NT-10268,Central,Uttar Pradesh,Mobiles,NovaPhone Pro,148182.9,3,21104.61,Credit Card,Online
+2025-02-07,NT-10311,West,Gujarat,Laptops,NovaBook Pro,182669.8,4,26416.46,Cash,Online
+2025-02-08,NT-10373,West,Gujarat,Smart Home,Smart Plug,19050.0,5,3417.31,Credit Card,Retail Store
+2025-02-08,NT-10250,Central,Uttar Pradesh,Smart Home,Security Camera,18550.8,4,2879.92,Cash,Marketplace
+2025-02-08,NT-10477,Central,Uttar Pradesh,Laptops,NovaBook Go,46440.9,1,3706.38,UPI,Marketplace
+2025-02-10,NT-10091,West,Rajasthan,Mobiles,NovaPhone X,158535.0,3,28181.94,Cash,Retail Store
+2025-02-10,NT-10109,North,Punjab,Smart Home,Smart Bulb,3288.9,2,198.29,Cash,Online
+2025-02-11,NT-10137,West,Maharashtra,Mobiles,NovaPhone X,49949.1,3,2790.72,Net Banking,Retail Store
+2025-02-13,NT-10167,North,Delhi,Audio,NovaBuds,7570.1,1,1510.91,Debit Card,Marketplace
+2025-02-13,NT-10071,West,Maharashtra,Laptops,NovaBook Pro,362192.25,5,26215.34,Cash,Retail Store
+2025-02-14,NT-10161,East,Odisha,Laptops,NovaBook Pro,283073.4,4,43441.78,Debit Card,Retail Store
+2025-02-15,NT-10334,West,Maharashtra,Accessories,Wireless Mouse,6829.75,5,518.6,Credit Card,Online
+2025-02-16,NT-10471,North,Haryana,Mobiles,NovaPhone Lite,177106.0,5,13844.1,UPI,Online
+2025-02-16,NT-10422,East,Odisha,Smart Home,Security Camera,28772.0,4,3604.43,Credit Card,Retail Store
+2025-02-17,NT-10453,South,Telangana,Accessories,Laptop Sleeve,4690.8,2,492.01,Net Banking,Retail Store
+2025-02-17,NT-10116,Central,Chhattisgarh,Audio,Studio Headphones,3205.3,1,367.04,Credit Card,Retail Store
+2025-02-18,NT-10329,East,West Bengal,Mobiles,NovaPhone X,60322.8,4,4822.88,UPI,Online
+2025-02-18,NT-10030,West,Rajasthan,Accessories,USB-C Hub,2088.0,5,396.23,UPI,Online
+2025-02-19,NT-10062,Central,Chhattisgarh,Audio,Bluetooth Speaker,16566.0,3,1521.41,Net Banking,Online
+2025-02-20,NT-10314,Central,Uttar Pradesh,Mobiles,NovaPhone Lite,22422.15,1,2314.43,Credit Card,Online
+2025-02-20,NT-10395,Central,Chhattisgarh,Mobiles,NovaPhone X,31979.85,1,1790.59,Debit Card,Marketplace
+2025-02-20,NT-10037,South,Karnataka,Laptops,NovaBook Pro,220077.0,4,18362.9,Credit Card,Retail Store
+2025-02-21,NT-10198,West,Goa,Mobiles,NovaPhone X,61940.0,2,5869.36,Cash,Online
+2025-02-21,NT-10143,Central,Madhya Pradesh,Smart Home,Smart Plug,22455.15,3,3134.45,Credit Card,Online
+2025-02-22,NT-10413,West,Rajasthan,Mobiles,NovaPhone Pro,56162.7,3,10203.8,Net Banking,Retail Store
+2025-02-22,NT-10086,South,Kerala,Audio,Studio Headphones,21508.0,2,3862.92,Debit Card,Retail Store
+2025-02-22,NT-10216,West,Rajasthan,Smart Home,Smart Bulb,3417.15,3,491.72,Net Banking,Marketplace
+2025-02-22,NT-10055,East,Bihar,Accessories,Keyboard,10461.8,4,959.75,Net Banking,Retail Store
+2025-02-23,NT-10356,West,Gujarat,Audio,Studio Headphones,11357.7,3,1134.57,Credit Card,Retail Store
+2025-02-23,NT-10410,East,West Bengal,Smart Home,Smart Bulb,3835.2,3,739.16,Debit Card,Online
+2025-02-23,NT-10210,South,Karnataka,Accessories,Keyboard,11787.8,4,1382.48,Net Banking,Retail Store
+2025-02-23,NT-10065,West,Goa,Smart Home,Smart Bulb,25902.0,4,2156.07,Credit Card,Retail Store
+2025-02-23,NT-10278,North,Punjab,Audio,NovaBuds,7156.15,1,433.84,Net Banking,Online
+2025-02-24,NT-10039,East,West Bengal,Mobiles,NovaPhone Pro,45986.4,1,5309.55,Cash,Online
+2025-02-27,NT-10357,West,Rajasthan,Laptops,NovaBook Air,161281.5,2,19908.03,UPI,Online
+2025-02-27,NT-10437,South,Kerala,Accessories,Wireless Mouse,974.1,1,183.99,Net Banking,Online
+2025-02-27,NT-10445,West,Maharashtra,Audio,Studio Headphones,11573.6,4,1678.74,Credit Card,Marketplace
+2025-02-27,NT-10403,Central,Madhya Pradesh,Mobiles,NovaPhone Lite,114401.5,5,12378.8,Net Banking,Retail Store
+2025-02-28,NT-10031,North,Delhi,Accessories,Wireless Mouse,7311.6,3,588.87,Debit Card,Marketplace
+2025-03-01,NT-10263,South,Kerala,Audio,NovaBuds,41569.25,5,6347.81,Net Banking,Marketplace
+2025-03-01,NT-10414,West,Maharashtra,Accessories,Laptop Sleeve,2034.9,2,373.8,Credit Card,Retail Store
+2025-03-03,NT-10117,West,Goa,Accessories,Keyboard,2664.0,1,282.77,Credit Card,Marketplace
+2025-03-03,NT-10162,East,Jharkhand,Laptops,NovaBook Go,230724.0,3,14133.27,Net Banking,Retail Store
+2025-03-04,NT-10398,East,Odisha,Accessories,Laptop Sleeve,8580.0,2,576.65,Debit Card,Retail Store
+2025-03-04,NT-10102,West,Maharashtra,Accessories,Wireless Mouse,3821.6,2,745.56,Cash,Retail Store
+2025-03-04,NT-10139,East,West Bengal,Smart Home,Smart Bulb,3758.7,3,348.14,Cash,Online
+2025-03-06,NT-10095,South,Kerala,Audio,Studio Headphones,17298.0,5,2057.35,UPI,Retail Store
+2025-03-07,NT-10159,West,Goa,Laptops,NovaBook Pro,229288.2,4,28530.44,Net Banking,Retail Store
+2025-03-09,NT-10299,West,Rajasthan,Laptops,NovaBook Go,46024.65,1,5199.51,UPI,Online
+2025-03-10,NT-10459,West,Maharashtra,Accessories,Keyboard,10438.6,4,1881.44,Debit Card,Retail Store
+2025-03-10,NT-10470,South,Telangana,Laptops,NovaBook Pro,209241.9,3,23421.61,UPI,Online
+2025-03-13,NT-10005,Central,Madhya Pradesh,Smart Home,Security Camera,967.5,1,191.36,Credit Card,Online
+2025-03-16,NT-10282,East,West Bengal,Mobiles,NovaPhone X,86880.6,2,14495.63,UPI,Marketplace
+2025-03-17,NT-10463,West,Maharashtra,Laptops,NovaBook Air,52200.0,1,7737.34,Net Banking,Retail Store
+2025-03-22,NT-10061,East,Jharkhand,Laptops,NovaBook Pro,114372.0,2,16285.07,Cash,Retail Store
+2025-03-22,NT-10204,South,Karnataka,Smart Home,Smart Bulb,7034.4,4,790.5,Cash,Retail Store
+2025-03-22,NT-10104,North,Punjab,Mobiles,NovaPhone Lite,112654.75,5,20999.76,Debit Card,Marketplace
+2025-03-27,NT-10157,East,Bihar,Audio,NovaBuds,4291.2,1,815.35,Cash,Retail Store
+2025-03-27,NT-10466,Central,Uttar Pradesh,Smart Home,Security Camera,13753.0,5,1800.96,UPI,Retail Store
+2025-03-29,NT-10012,East,West Bengal,Smart Home,Security Camera,12783.0,3,2468.04,Debit Card,Marketplace
+2025-03-30,NT-10454,East,Odisha,Mobiles,NovaPhone Lite,115235.0,4,22688.72,Credit Card,Online
+2025-03-30,NT-10049,East,Jharkhand,Accessories,USB-C Hub,4768.2,2,406.13,Debit Card,Retail Store
+2025-04-02,NT-10057,South,Karnataka,Laptops,NovaBook Go,125466.5,2,15025.25,Debit Card,Retail Store
+2025-04-02,NT-10389,Central,Chhattisgarh,Audio,Studio Headphones,6836.0,4,732.34,UPI,Marketplace
+2025-04-02,NT-10436,South,Tamil Nadu,Accessories,Keyboard,7710.2,2,501.49,Cash,Retail Store
+2025-04-04,NT-10472,North,Delhi,Laptops,NovaBook Go,45464.8,1,7231.91,Credit Card,Online
+2025-04-05,NT-10343,South,Karnataka,Laptops,NovaBook Air,51350.0,1,9638.63,Credit Card,Retail Store
+2025-04-06,NT-10450,Central,Chhattisgarh,Accessories,Keyboard,6832.8,4,749.43,Cash,Online
+2025-04-06,NT-10144,Central,Madhya Pradesh,Mobiles,NovaPhone Pro,56479.4,4,11038.24,Cash,Retail Store
+2025-04-06,NT-10193,West,Rajasthan,Smart Home,Security Camera,6158.0,2,627.84,Net Banking,Marketplace
+2025-04-06,NT-10494,West,Goa,Accessories,Laptop Sleeve,1443.6,4,201.19,Cash,Online
+2025-04-07,NT-10234,Central,Chhattisgarh,Mobiles,NovaPhone Pro,40637.7,3,7513.78,Cash,Marketplace
+2025-04-07,NT-10321,South,Karnataka,Accessories,Laptop Sleeve,3607.0,1,278.87,Debit Card,Marketplace
+2025-04-08,NT-10230,North,Haryana,Accessories,Laptop Sleeve,2424.4,2,208.85,Cash,Marketplace
+2025-04-09,NT-10289,Central,Uttar Pradesh,Laptops,NovaBook Pro,52505.55,1,3565.99,Credit Card,Marketplace
+2025-04-09,NT-10272,West,Rajasthan,Accessories,Keyboard,2100.0,5,335.24,Net Banking,Marketplace
+2025-04-09,NT-10257,West,Goa,Mobiles,NovaPhone X,44409.1,1,6165.34,Net Banking,Online
+2025-04-09,NT-10344,Central,Chhattisgarh,Accessories,Keyboard,552.5,1,76.86,Credit Card,Retail Store
+2025-04-09,NT-10120,East,West Bengal,Smart Home,Security Camera,20638.0,5,1726.09,UPI,Retail Store
+2025-04-09,NT-10336,West,Goa,Laptops,NovaBook Air,239585.25,5,44940.03,UPI,Marketplace
+2025-04-10,NT-10013,North,Punjab,Mobiles,NovaPhone Pro,233590.5,5,38396.82,Cash,Marketplace
+2025-04-10,NT-10478,South,Kerala,Mobiles,NovaPhone X,35064.9,3,4828.6,Net Banking,Online
+2025-04-10,NT-10488,South,Kerala,Laptops,NovaBook Air,65674.0,1,6839.22,Net Banking,Retail Store
+2025-04-11,NT-10411,East,West Bengal,Mobiles,NovaPhone X,59086.8,2,8417.0,Debit Card,Marketplace
+2025-04-11,NT-10202,East,Odisha,Audio,Bluetooth Speaker,48987.0,5,7539.85,UPI,Marketplace
+2025-04-11,NT-10126,Central,Uttar Pradesh,Smart Home,Security Camera,3216.0,3,164.51,Debit Card,Online
+2025-04-13,NT-10417,West,Maharashtra,Accessories,USB-C Hub,12844.0,4,2275.92,Cash,Marketplace
+2025-04-13,NT-10001,East,Bihar,Laptops,NovaBook Air,88288.0,2,12234.41,UPI,Online
+2025-04-13,NT-10008,West,Rajasthan,Laptops,NovaBook Pro,43943.4,1,3598.7,Net Banking,Retail Store
+2025-04-14,NT-10369,West,Maharashtra,Accessories,Laptop Sleeve,1647.9,1,171.43,Debit Card,Retail Store
+2025-04-14,NT-10284,South,Kerala,Audio,NovaBuds,13315.0,5,2636.8,Debit Card,Online
+2025-04-16,NT-10066,West,Rajasthan,Smart Home,Security Camera,24516.0,4,3810.48,Debit Card,Retail Store
+2025-04-16,NT-10429,Central,Uttar Pradesh,Laptops,NovaBook Air,170243.8,4,20664.26,Cash,Marketplace
+2025-04-17,NT-10004,Central,Chhattisgarh,Accessories,Laptop Sleeve,3538.55,1,218.75,Debit Card,Marketplace
+2025-04-18,NT-10166,Central,Madhya Pradesh,Smart Home,Security Camera,17972.4,3,1477.07,Cash,Retail Store
+2025-04-18,NT-10415,North,Uttar Pradesh,Laptops,NovaBook Go,324674.5,5,53694.68,Credit Card,Online
+2025-04-22,NT-10288,Central,Uttar Pradesh,Accessories,Keyboard,2793.0,1,163.91,UPI,Retail Store
+2025-04-22,NT-10262,South,Kerala,Mobiles,NovaPhone Pro,54044.7,3,7723.61,Debit Card,Online
+2025-04-23,NT-10203,East,Bihar,Laptops,NovaBook Pro,287863.2,4,44199.54,Debit Card,Retail Store
+2025-04-23,NT-10283,Central,Uttar Pradesh,Accessories,USB-C Hub,8752.5,5,1285.97,Credit Card,Retail Store
+2025-04-23,NT-10196,South,Tamil Nadu,Audio,NovaBuds,17369.75,5,2112.46,Credit Card,Retail Store
+2025-04-23,NT-10206,North,Delhi,Smart Home,Smart Bulb,22932.0,5,4085.86,Net Banking,Online
+2025-04-23,NT-10201,North,Delhi,Laptops,NovaBook Pro,125951.0,2,6426.59,Net Banking,Online
+2025-04-24,NT-10362,South,Karnataka,Mobiles,NovaPhone X,50646.0,1,5317.26,UPI,Retail Store
+2025-04-26,NT-10178,North,Punjab,Mobiles,NovaPhone X,198850.2,4,34206.54,Cash,Marketplace
+2025-04-26,NT-10346,South,Karnataka,Mobiles,NovaPhone Pro,43431.6,2,5515.47,UPI,Retail Store
+2025-04-26,NT-10281,North,Uttar Pradesh,Audio,NovaBuds,5978.9,2,614.21,Net Banking,Retail Store
+2025-04-27,NT-10440,Central,Uttar Pradesh,Mobiles,NovaPhone X,135910.0,5,14129.34,UPI,Online
+2025-04-28,NT-10452,Central,Chhattisgarh,Laptops,NovaBook Go,228478.8,3,24427.63,UPI,Retail Store
+2025-04-30,NT-10433,Central,Madhya Pradesh,Laptops,NovaBook Go,168487.25,5,25806.35,Debit Card,Retail Store
+2025-04-30,NT-10279,East,Odisha,Laptops,NovaBook Air,125360.1,3,18332.21,Credit Card,Online
+2025-05-01,NT-10177,West,Gujarat,Accessories,Laptop Sleeve,3235.95,3,221.27,Net Banking,Online
+2025-05-02,NT-10009,East,Bihar,Audio,NovaBuds,18184.9,2,3358.27,Net Banking,Retail Store
+2025-05-02,NT-10446,West,Rajasthan,Mobiles,NovaPhone Lite,211968.0,5,18491.8,UPI,Retail Store
+2025-05-03,NT-10225,West,Rajasthan,Smart Home,Smart Plug,3921.9,2,531.29,Credit Card,Retail Store
+2025-05-04,NT-10236,Central,Chhattisgarh,Smart Home,Smart Bulb,16230.75,5,2736.09,UPI,Marketplace
+2025-05-04,NT-10428,South,Telangana,Smart Home,Security Camera,21226.8,4,2265.57,Credit Card,Online
+2025-05-05,NT-10400,North,Punjab,Accessories,Laptop Sleeve,18225.0,5,3366.93,Credit Card,Retail Store
+2025-05-06,NT-10451,West,Goa,Laptops,NovaBook Go,157819.5,5,28259.16,Credit Card,Retail Store
+2025-05-06,NT-10214,West,Maharashtra,Smart Home,Smart Bulb,11502.2,2,979.42,Credit Card,Online
+2025-05-07,NT-10366,North,Haryana,Accessories,Wireless Mouse,3868.4,2,401.11,Net Banking,Retail Store
+2025-05-07,NT-10443,North,Punjab,Audio,Studio Headphones,16340.0,2,2050.27,Debit Card,Online
+2025-05-08,NT-10352,South,Karnataka,Accessories,Laptop Sleeve,3237.3,3,514.01,Cash,Online
+2025-05-08,NT-10305,South,Tamil Nadu,Mobiles,NovaPhone Lite,70626.0,2,10705.31,Debit Card,Online
+2025-05-08,NT-10249,East,Bihar,Audio,NovaBuds,10263.75,3,627.06,Cash,Retail Store
+2025-05-08,NT-10171,North,Haryana,Mobiles,NovaPhone Lite,174439.0,4,28811.61,Credit Card,Retail Store
+2025-05-09,NT-10253,Central,Madhya Pradesh,Smart Home,Smart Plug,2432.7,3,273.43,UPI,Online
+2025-05-09,NT-10100,South,Tamil Nadu,Smart Home,Security Camera,9621.6,3,770.88,Cash,Retail Store
+2025-05-09,NT-10444,Central,Uttar Pradesh,Smart Home,Security Camera,16284.3,3,2189.84,Credit Card,Retail Store
+2025-05-10,NT-10208,North,Haryana,Audio,Studio Headphones,5568.0,3,901.3,Cash,Online
+2025-05-10,NT-10215,East,Bihar,Mobiles,NovaPhone Pro,148045.5,5,12663.16,Credit Card,Marketplace
+2025-05-11,NT-10016,West,Gujarat,Smart Home,Smart Plug,32713.25,5,5134.09,Net Banking,Marketplace
+2025-05-11,NT-10276,East,Odisha,Accessories,Wireless Mouse,3273.7,1,189.12,Debit Card,Marketplace
+2025-05-11,NT-10127,East,Odisha,Mobiles,NovaPhone Lite,10630.1,1,811.65,Net Banking,Marketplace
+2025-05-11,NT-10042,West,Goa,Mobiles,NovaPhone X,88974.6,2,11761.6,UPI,Retail Store
+2025-05-14,NT-10163,South,Tamil Nadu,Smart Home,Smart Plug,13008.4,2,718.32,UPI,Online
+2025-05-15,NT-10044,Central,Uttar Pradesh,Laptops,NovaBook Pro,270588.5,5,40837.04,Credit Card,Online
+2025-05-15,NT-10303,South,Tamil Nadu,Smart Home,Smart Bulb,7449.4,2,507.38,Debit Card,Online
+2025-05-15,NT-10111,South,Tamil Nadu,Smart Home,Security Camera,1690.05,1,233.78,UPI,Online
+2025-05-16,NT-10101,East,Bihar,Smart Home,Smart Plug,20876.85,3,4073.23,Debit Card,Marketplace
+2025-05-17,NT-10183,South,Tamil Nadu,Accessories,Wireless Mouse,12445.2,4,1663.61,Debit Card,Online
+2025-05-19,NT-10103,North,Punjab,Laptops,NovaBook Pro,193945.5,5,26703.19,Debit Card,Online
+2025-05-20,NT-10267,North,Haryana,Mobiles,NovaPhone Lite,104532.0,3,12111.13,UPI,Online
+2025-05-22,NT-10387,Central,Chhattisgarh,Audio,Studio Headphones,31554.25,5,2528.55,Cash,Marketplace
+2025-05-23,NT-10148,South,Kerala,Audio,NovaBuds,4936.8,3,618.59,Credit Card,Retail Store
+2025-05-23,NT-10388,South,Karnataka,Accessories,Laptop Sleeve,13680.0,5,1837.8,Cash,Marketplace
+2025-05-24,NT-10426,Central,Uttar Pradesh,Smart Home,Security Camera,7106.4,1,1365.05,Credit Card,Retail Store
+2025-05-24,NT-10465,Central,Chhattisgarh,Audio,Bluetooth Speaker,41743.0,5,5786.61,Net Banking,Marketplace
+2025-05-24,NT-10233,West,Goa,Mobiles,NovaPhone X,147249.0,3,27126.02,UPI,Online
+2025-05-24,NT-10260,East,West Bengal,Mobiles,NovaPhone Pro,58543.2,2,3954.14,Debit Card,Marketplace
+2025-05-25,NT-10432,East,Jharkhand,Audio,NovaBuds,4884.1,2,433.08,UPI,Marketplace
+2025-05-27,NT-10493,West,Rajasthan,Accessories,Keyboard,11262.25,5,1196.72,Cash,Marketplace
+2025-05-27,NT-10431,North,Haryana,Audio,Bluetooth Speaker,15978.3,2,1639.02,Cash,Online
+2025-05-27,NT-10273,Central,Chhattisgarh,Accessories,Wireless Mouse,6662.3,2,601.48,Debit Card,Retail Store
+2025-05-27,NT-10244,North,Punjab,Accessories,Keyboard,6171.0,3,858.21,Credit Card,Retail Store
+2025-05-27,NT-10325,West,Gujarat,Audio,NovaBuds,17786.0,2,1676.09,Debit Card,Retail Store
+2025-05-28,NT-10245,East,West Bengal,Laptops,NovaBook Air,193024.8,4,32932.24,Debit Card,Retail Store
+2025-05-28,NT-10241,Central,Uttar Pradesh,Audio,Studio Headphones,11491.2,4,1529.86,Cash,Marketplace
+2025-05-30,NT-10401,North,Delhi,Smart Home,Smart Bulb,25340.0,5,2068.18,Credit Card,Marketplace
+2025-05-30,NT-10017,Central,Chhattisgarh,Accessories,Keyboard,2187.0,1,116.25,Cash,Online
+2025-05-31,NT-10365,Central,Uttar Pradesh,Smart Home,Security Camera,8262.0,2,1047.11,Cash,Online
+2025-05-31,NT-10255,North,Punjab,Audio,Bluetooth Speaker,3046.5,1,448.43,Credit Card,Marketplace
+2025-06-01,NT-10190,South,Telangana,Mobiles,NovaPhone Pro,176460.6,4,20989.91,Cash,Retail Store
+2025-06-01,NT-10277,North,Uttar Pradesh,Mobiles,NovaPhone Lite,24686.7,1,3432.73,Cash,Marketplace
+2025-06-01,NT-10015,West,Maharashtra,Laptops,NovaBook Air,183774.25,5,35289.67,Credit Card,Retail Store
+2025-06-02,NT-10290,West,Rajasthan,Laptops,NovaBook Air,310032.0,5,23266.18,Credit Card,Marketplace
+2025-06-02,NT-10396,Central,Uttar Pradesh,Laptops,NovaBook Go,181299.6,3,11046.97,Debit Card,Marketplace
+2025-06-03,NT-10464,East,Jharkhand,Mobiles,NovaPhone X,39145.7,2,2125.05,Debit Card,Retail Store
+2025-06-04,NT-10367,Central,Chhattisgarh,Mobiles,NovaPhone X,87000.0,2,4516.38,UPI,Online
+2025-06-06,NT-10092,Central,Madhya Pradesh,Accessories,Keyboard,4320.0,5,862.33,UPI,Retail Store
+2025-06-07,NT-10310,Central,Uttar Pradesh,Laptops,NovaBook Go,131614.0,2,24008.6,Net Banking,Online
+2025-06-07,NT-10333,North,Haryana,Mobiles,NovaPhone Pro,167598.75,5,22777.87,Credit Card,Retail Store
+2025-06-07,NT-10430,Central,Madhya Pradesh,Laptops,NovaBook Go,66604.0,1,12291.46,Net Banking,Marketplace
+2025-06-09,NT-10269,East,Odisha,Laptops,NovaBook Go,316386.0,5,29550.45,Debit Card,Marketplace
+2025-06-09,NT-10153,Central,Chhattisgarh,Accessories,USB-C Hub,1981.8,2,119.21,Cash,Marketplace
+2025-06-09,NT-10192,West,Rajasthan,Mobiles,NovaPhone Pro,125492.4,4,11691.93,Cash,Marketplace
+2025-06-09,NT-10219,Central,Madhya Pradesh,Audio,Studio Headphones,19720.8,4,2899.07,Net Banking,Retail Store
+2025-06-10,NT-10349,East,West Bengal,Accessories,Laptop Sleeve,3319.2,4,484.9,Debit Card,Retail Store
+2025-06-10,NT-10280,North,Delhi,Smart Home,Smart Plug,13588.8,4,2554.48,Cash,Marketplace
+2025-06-10,NT-10298,South,Tamil Nadu,Smart Home,Smart Bulb,3222.0,4,468.45,UPI,Retail Store
+2025-06-10,NT-10024,Central,Uttar Pradesh,Accessories,Keyboard,6338.4,4,1237.93,Cash,Marketplace
+2025-06-11,NT-10072,North,Haryana,Laptops,NovaBook Air,351818.25,5,58526.38,Net Banking,Retail Store
+2025-06-12,NT-10105,South,Tamil Nadu,Audio,NovaBuds,6486.0,1,418.86,Cash,Online
+2025-06-12,NT-10295,East,West Bengal,Laptops,NovaBook Go,375853.25,5,31375.39,Cash,Online
+2025-06-14,NT-10185,Central,Uttar Pradesh,Audio,NovaBuds,12371.4,2,920.13,Cash,Marketplace
+2025-06-16,NT-10047,North,Delhi,Smart Home,Security Camera,3773.15,1,566.49,Cash,Marketplace
+2025-06-18,NT-10297,Central,Madhya Pradesh,Smart Home,Security Camera,12634.4,4,2522.69,Credit Card,Marketplace
+2025-06-19,NT-10160,North,Haryana,Smart Home,Security Camera,4015.65,1,529.35,Debit Card,Online
+2025-06-19,NT-10374,West,Goa,Audio,NovaBuds,2283.3,1,118.4,Cash,Marketplace
+2025-06-19,NT-10032,North,Uttar Pradesh,Audio,Bluetooth Speaker,21718.8,4,3598.11,Debit Card,Online
+2025-06-19,NT-10407,East,West Bengal,Mobiles,NovaPhone Lite,241885.0,5,12276.75,Cash,Retail Store
+2025-06-20,NT-10149,South,Tamil Nadu,Laptops,NovaBook Pro,112031.1,3,18900.44,Credit Card,Online
+2025-06-21,NT-10189,West,Gujarat,Audio,NovaBuds,33051.4,4,5979.75,UPI,Marketplace
+2025-06-21,NT-10121,North,Punjab,Smart Home,Security Camera,12760.0,5,1803.62,Debit Card,Online
+2025-06-21,NT-10331,South,Telangana,Smart Home,Security Camera,14904.0,4,1333.82,Net Banking,Retail Store
+2025-06-21,NT-10217,East,Jharkhand,Audio,NovaBuds,28568.5,5,2067.86,Net Banking,Online
+2025-06-22,NT-10383,West,Gujarat,Mobiles,NovaPhone X,97956.0,4,16022.9,UPI,Marketplace
+2025-06-23,NT-10360,East,Bihar,Smart Home,Smart Plug,6703.2,1,793.58,Cash,Marketplace
+2025-06-24,NT-10036,North,Delhi,Mobiles,NovaPhone Lite,111098.7,3,10001.2,UPI,Retail Store
+2025-06-25,NT-10372,South,Tamil Nadu,Audio,Bluetooth Speaker,4674.0,2,306.41,Cash,Retail Store
+2025-06-25,NT-10307,West,Rajasthan,Mobiles,NovaPhone X,50163.0,1,2672.18,UPI,Online
+2025-06-28,NT-10138,Central,Madhya Pradesh,Smart Home,Smart Plug,9572.7,3,1065.59,Debit Card,Marketplace
+2025-06-29,NT-10406,North,Haryana,Audio,Studio Headphones,17408.0,2,2950.93,Cash,Retail Store
+2025-06-29,NT-10490,West,Gujarat,Mobiles,NovaPhone Pro,88319.6,2,11813.94,Cash,Retail Store
+2025-06-29,NT-10195,South,Tamil Nadu,Smart Home,Smart Bulb,12740.0,5,828.48,Debit Card,Marketplace
+2025-06-30,NT-10342,East,West Bengal,Audio,Studio Headphones,17442.0,5,1227.0,Cash,Marketplace
+2025-07-03,NT-10224,East,Jharkhand,Mobiles,NovaPhone Lite,46421.75,1,2434.03,Cash,Marketplace
+2025-07-04,NT-10467,West,Rajasthan,Accessories,Laptop Sleeve,5483.4,2,557.02,Net Banking,Marketplace
+2025-07-05,NT-10397,Central,Madhya Pradesh,Mobiles,NovaPhone X,95387.0,5,6084.91,Credit Card,Online
+2025-07-06,NT-10205,South,Karnataka,Smart Home,Smart Plug,33371.0,5,4312.4,Debit Card,Online
+2025-07-06,NT-10155,North,Punjab,Laptops,NovaBook Pro,166068.0,2,27521.65,Debit Card,Online
+2025-07-06,NT-10237,North,Haryana,Accessories,Wireless Mouse,1737.4,2,339.38,Debit Card,Online
+2025-07-07,NT-10345,East,Odisha,Smart Home,Smart Plug,15124.0,2,1402.91,Net Banking,Online
+2025-07-07,NT-10033,West,Maharashtra,Audio,Studio Headphones,2595.4,1,342.17,Debit Card,Marketplace
+2025-07-07,NT-10090,East,West Bengal,Smart Home,Smart Plug,5154.4,4,269.59,Credit Card,Retail Store
+2025-07-08,NT-10457,West,Maharashtra,Mobiles,NovaPhone Lite,122155.2,4,16375.21,Debit Card,Retail Store
+2025-07-08,NT-10006,West,Rajasthan,Audio,Bluetooth Speaker,13617.0,2,2114.35,UPI,Marketplace
+2025-07-09,NT-10080,West,Goa,Mobiles,NovaPhone Pro,38521.8,1,3781.25,UPI,Online
+2025-07-09,NT-10035,North,Punjab,Mobiles,NovaPhone Pro,183502.0,5,34657.03,Credit Card,Online
+2025-07-09,NT-10399,Central,Uttar Pradesh,Mobiles,NovaPhone Pro,26303.4,2,2819.88,UPI,Retail Store
+2025-07-09,NT-10174,South,Telangana,Smart Home,Smart Bulb,5185.0,5,322.42,Cash,Retail Store
+2025-07-10,NT-10347,South,Tamil Nadu,Mobiles,NovaPhone Pro,51372.0,2,8060.84,Debit Card,Retail Store
+2025-07-10,NT-10069,East,West Bengal,Smart Home,Smart Bulb,4971.35,1,724.23,Net Banking,Online
+2025-07-11,NT-10328,Central,Chhattisgarh,Smart Home,Smart Plug,9408.0,3,1024.86,Cash,Retail Store
+2025-07-11,NT-10458,North,Punjab,Laptops,NovaBook Pro,228180.5,5,44930.1,Debit Card,Retail Store
+2025-07-11,NT-10022,North,Haryana,Audio,NovaBuds,15520.0,5,3031.82,Credit Card,Online
+2025-07-13,NT-10293,North,Delhi,Smart Home,Smart Plug,3605.0,5,312.49,Net Banking,Retail Store
+2025-07-14,NT-10304,West,Rajasthan,Audio,Bluetooth Speaker,2682.9,1,466.71,Cash,Online
+2025-07-15,NT-10418,South,Kerala,Mobiles,NovaPhone Pro,45106.0,2,7234.46,Net Banking,Retail Store
+2025-07-17,NT-10182,Central,Uttar Pradesh,Audio,NovaBuds,14878.0,2,1606.11,Net Banking,Marketplace
+2025-07-17,NT-10220,South,Tamil Nadu,Laptops,NovaBook Go,179154.0,3,32434.59,Credit Card,Marketplace
+2025-07-17,NT-10231,East,Jharkhand,Accessories,Laptop Sleeve,2937.6,1,395.84,Credit Card,Retail Store
+2025-07-18,NT-10247,West,Gujarat,Accessories,Laptop Sleeve,8874.0,3,929.57,Cash,Online
+2025-07-20,NT-10235,East,West Bengal,Laptops,NovaBook Air,124900.7,2,23647.6,Debit Card,Online
+2025-07-20,NT-10112,South,Kerala,Accessories,Wireless Mouse,5656.75,5,663.2,Debit Card,Marketplace
+2025-07-21,NT-10073,Central,Chhattisgarh,Audio,Bluetooth Speaker,32448.0,3,6234.51,Credit Card,Marketplace
+2025-07-22,NT-10223,East,Odisha,Audio,Studio Headphones,18849.6,3,2260.08,Net Banking,Retail Store
+2025-07-23,NT-10474,North,Delhi,Laptops,NovaBook Pro,52465.0,1,6898.03,Credit Card,Online
+2025-07-25,NT-10060,East,Jharkhand,Smart Home,Smart Bulb,3412.8,3,177.12,Net Banking,Retail Store
+2025-07-26,NT-10134,West,Goa,Audio,NovaBuds,16200.0,3,2042.83,Debit Card,Retail Store
+2025-07-27,NT-10083,South,Telangana,Audio,NovaBuds,15495.5,5,2822.15,Net Banking,Online
+2025-07-27,NT-10275,West,Goa,Laptops,NovaBook Air,59884.2,1,10918.22,Debit Card,Online
+2025-07-27,NT-10296,West,Rajasthan,Audio,NovaBuds,17498.1,3,895.82,Credit Card,Retail Store
+2025-08-01,NT-10082,Central,Chhattisgarh,Smart Home,Smart Bulb,4118.4,4,590.56,Net Banking,Marketplace
+2025-08-02,NT-10123,North,Uttar Pradesh,Mobiles,NovaPhone Pro,110916.5,5,11217.47,Debit Card,Retail Store
+2025-08-03,NT-10010,Central,Chhattisgarh,Mobiles,NovaPhone X,14332.65,1,2065.58,Net Banking,Marketplace
+2025-08-03,NT-10078,West,Maharashtra,Smart Home,Security Camera,4617.0,5,648.95,UPI,Online
+2025-08-03,NT-10393,Central,Chhattisgarh,Accessories,USB-C Hub,6482.8,2,1078.88,Credit Card,Retail Store
+2025-08-04,NT-10118,North,Uttar Pradesh,Audio,NovaBuds,7717.5,1,1325.6,Cash,Online
+2025-08-05,NT-10088,West,Goa,Smart Home,Smart Plug,22295.55,3,3027.06,Credit Card,Retail Store
+2025-08-06,NT-10475,North,Uttar Pradesh,Accessories,Keyboard,6038.4,2,525.79,UPI,Online
+2025-08-06,NT-10070,East,Jharkhand,Laptops,NovaBook Go,255464.0,4,22448.07,Net Banking,Online
+2025-08-06,NT-10218,South,Karnataka,Smart Home,Security Camera,19696.2,3,3687.35,Cash,Retail Store
+2025-08-06,NT-10130,East,West Bengal,Audio,Studio Headphones,10995.6,4,1413.97,Net Banking,Retail Store
+2025-08-08,NT-10469,West,Goa,Accessories,USB-C Hub,8319.8,4,1449.84,Credit Card,Retail Store
+2025-08-08,NT-10332,Central,Madhya Pradesh,Mobiles,NovaPhone Lite,33006.6,2,5651.62,Net Banking,Marketplace
+2025-08-08,NT-10209,East,West Bengal,Laptops,NovaBook Pro,194740.0,5,38543.06,Net Banking,Online
+2025-08-10,NT-10481,East,Odisha,Audio,NovaBuds,15847.4,4,1643.77,Credit Card,Retail Store
+2025-08-10,NT-10145,Central,Madhya Pradesh,Audio,NovaBuds,26174.4,3,2752.92,Cash,Retail Store
+2025-08-11,NT-10355,West,Rajasthan,Laptops,NovaBook Go,146463.4,4,10341.02,Credit Card,Retail Store
+2025-08-11,NT-10491,Central,Chhattisgarh,Laptops,NovaBook Go,324168.0,4,24319.54,Credit Card,Marketplace
+2025-08-12,NT-10212,West,Goa,Laptops,NovaBook Pro,284316.0,5,33860.27,Credit Card,Retail Store
+2025-08-13,NT-10213,North,Uttar Pradesh,Mobiles,NovaPhone Pro,209196.0,4,18011.76,UPI,Online
+2025-08-13,NT-10186,Central,Uttar Pradesh,Accessories,Laptop Sleeve,19854.0,5,2406.98,UPI,Retail Store
+2025-08-13,NT-10175,West,Maharashtra,Mobiles,NovaPhone Pro,191163.6,4,23406.4,Net Banking,Retail Store
+2025-08-14,NT-10318,Central,Uttar Pradesh,Laptops,NovaBook Air,76084.2,2,14766.71,Debit Card,Marketplace
+2025-08-15,NT-10287,Central,Madhya Pradesh,Smart Home,Smart Plug,3944.4,3,773.68,Credit Card,Marketplace
+2025-08-15,NT-10125,West,Rajasthan,Smart Home,Security Camera,12391.2,2,1418.63,Debit Card,Marketplace
+2025-08-17,NT-10439,Central,Madhya Pradesh,Smart Home,Security Camera,11890.0,2,954.24,Cash,Retail Store
+2025-08-18,NT-10312,East,Jharkhand,Audio,Studio Headphones,42480.0,5,4598.77,Credit Card,Online
+2025-08-19,NT-10173,South,Telangana,Laptops,NovaBook Pro,151922.0,2,19048.89,Credit Card,Marketplace
+2025-08-19,NT-10108,West,Rajasthan,Accessories,Wireless Mouse,2380.0,2,151.73,Credit Card,Marketplace
+2025-08-19,NT-10141,East,Bihar,Smart Home,Security Camera,6226.25,5,786.21,UPI,Retail Store
+2025-08-19,NT-10146,West,Goa,Audio,Bluetooth Speaker,9064.9,2,1640.3,UPI,Marketplace
+2025-08-21,NT-10337,Central,Chhattisgarh,Smart Home,Smart Plug,4095.0,1,772.89,Cash,Online
+2025-08-21,NT-10179,South,Kerala,Accessories,USB-C Hub,19008.0,5,2368.5,UPI,Retail Store
+2025-08-21,NT-10271,South,Telangana,Audio,Bluetooth Speaker,30584.0,4,3377.32,Debit Card,Marketplace
+2025-08-21,NT-10194,South,Karnataka,Accessories,Keyboard,11794.5,5,832.58,Cash,Marketplace
+2025-08-22,NT-10188,Central,Chhattisgarh,Mobiles,NovaPhone Pro,55744.0,2,4382.46,Net Banking,Retail Store
+2025-08-24,NT-10028,South,Telangana,Accessories,Keyboard,11960.0,4,614.71,Cash,Marketplace
+2025-08-25,NT-10084,Central,Madhya Pradesh,Laptops,NovaBook Go,94120.5,2,6021.96,UPI,Retail Store
+2025-08-25,NT-10147,Central,Madhya Pradesh,Audio,Bluetooth Speaker,16824.5,5,1529.66,Cash,Online
+2025-08-25,NT-10455,Central,Chhattisgarh,Accessories,USB-C Hub,7622.8,4,921.96,UPI,Online
+2025-08-26,NT-10473,West,Gujarat,Mobiles,NovaPhone X,100829.55,3,20135.11,Net Banking,Marketplace
+2025-08-26,NT-10309,North,Haryana,Audio,Bluetooth Speaker,16457.8,4,1501.73,Net Banking,Online
+2025-08-27,NT-10448,South,Telangana,Mobiles,NovaPhone X,51339.9,2,9007.6,Debit Card,Online
+2025-08-28,NT-10232,North,Uttar Pradesh,Laptops,NovaBook Go,203507.0,4,11888.32,UPI,Marketplace
+2025-08-29,NT-10142,South,Telangana,Accessories,USB-C Hub,7493.6,4,548.84,Debit Card,Online
+2025-08-30,NT-10052,East,Odisha,Audio,NovaBuds,31787.0,4,3917.25,Debit Card,Retail Store
+2025-08-31,NT-10156,Central,Chhattisgarh,Laptops,NovaBook Pro,135780.7,2,19655.67,Credit Card,Online
+2025-09-01,NT-10040,South,Telangana,Audio,Studio Headphones,8211.8,1,859.23,UPI,Marketplace
+2025-09-03,NT-10486,North,Uttar Pradesh,Accessories,Wireless Mouse,1463.0,1,117.5,Net Banking,Online
+2025-09-03,NT-10371,East,Odisha,Accessories,Wireless Mouse,2264.4,2,205.55,Net Banking,Marketplace
+2025-09-04,NT-10375,Central,Madhya Pradesh,Smart Home,Smart Plug,14856.0,3,1707.36,Credit Card,Retail Store
+2025-09-04,NT-10221,West,Gujarat,Smart Home,Smart Bulb,9549.0,3,780.83,Credit Card,Marketplace
+2025-09-04,NT-10462,East,West Bengal,Mobiles,NovaPhone Pro,45876.0,2,2732.78,Net Banking,Marketplace
+2025-09-07,NT-10484,North,Haryana,Accessories,Keyboard,995.4,2,165.64,Credit Card,Retail Store
+2025-09-07,NT-10492,East,Bihar,Audio,Studio Headphones,50980.5,5,9450.4,Cash,Retail Store
+2025-09-09,NT-10079,Central,Uttar Pradesh,Mobiles,NovaPhone Pro,28178.9,1,3397.67,Net Banking,Retail Store
+2025-09-09,NT-10242,North,Punjab,Accessories,Keyboard,13588.8,4,1845.28,Credit Card,Marketplace
+2025-09-09,NT-10089,West,Goa,Laptops,NovaBook Pro,298281.0,4,37076.12,UPI,Online
+2025-09-09,NT-10259,West,Rajasthan,Laptops,NovaBook Pro,302345.0,5,30896.24,Net Banking,Marketplace
+2025-09-10,NT-10348,West,Rajasthan,Audio,Bluetooth Speaker,15548.2,2,2140.57,UPI,Marketplace
+2025-09-10,NT-10027,Central,Uttar Pradesh,Laptops,NovaBook Pro,264731.75,5,39831.25,Debit Card,Online
+2025-09-11,NT-10266,Central,Chhattisgarh,Laptops,NovaBook Pro,359533.0,5,47441.45,Net Banking,Online
+2025-09-11,NT-10480,Central,Chhattisgarh,Audio,NovaBuds,2355.05,1,365.5,UPI,Online
+2025-09-11,NT-10286,North,Uttar Pradesh,Accessories,USB-C Hub,9336.4,4,1060.02,Net Banking,Online
+2025-09-12,NT-10226,East,Odisha,Smart Home,Smart Plug,22531.8,4,2684.09,Debit Card,Online
+2025-09-12,NT-10131,East,Bihar,Accessories,USB-C Hub,1267.3,1,235.58,Debit Card,Retail Store
+2025-09-13,NT-10350,South,Karnataka,Accessories,USB-C Hub,3524.5,1,557.55,Net Banking,Retail Store
+2025-09-14,NT-10495,East,Bihar,Accessories,Wireless Mouse,5362.2,2,1007.38,Cash,Marketplace
+2025-09-14,NT-10128,Central,Uttar Pradesh,Mobiles,NovaPhone Pro,50169.0,3,5791.16,Net Banking,Online
+2025-09-15,NT-10019,West,Gujarat,Mobiles,NovaPhone Lite,87851.75,5,7594.75,Net Banking,Retail Store
+2025-09-16,NT-10240,North,Punjab,Laptops,NovaBook Air,234348.0,4,16375.31,Credit Card,Retail Store
+2025-09-16,NT-10180,South,Karnataka,Smart Home,Security Camera,16155.0,5,2007.0,Net Banking,Retail Store
+2025-09-17,NT-10067,North,Delhi,Accessories,USB-C Hub,3930.15,3,309.43,Net Banking,Retail Store
+2025-09-18,NT-10107,East,Bihar,Accessories,Wireless Mouse,14551.2,4,944.42,Debit Card,Marketplace
+2025-09-19,NT-10419,West,Gujarat,Laptops,NovaBook Air,52324.0,1,7863.66,Cash,Retail Store
+2025-09-20,NT-10258,East,West Bengal,Mobiles,NovaPhone X,88673.0,5,9299.04,Credit Card,Retail Store
+2025-09-21,NT-10058,Central,Uttar Pradesh,Mobiles,NovaPhone Pro,22732.0,1,3109.8,Debit Card,Marketplace
+2025-09-21,NT-10315,East,Odisha,Mobiles,NovaPhone Pro,62316.0,5,11973.01,Cash,Online
+2025-09-21,NT-10412,Central,Uttar Pradesh,Smart Home,Smart Bulb,18655.8,3,1404.71,Debit Card,Online
+2025-09-21,NT-10386,West,Gujarat,Accessories,Keyboard,9879.3,3,1165.03,Credit Card,Online
+2025-09-22,NT-10053,West,Rajasthan,Audio,NovaBuds,15975.2,4,3148.84,Cash,Online
+2025-09-24,NT-10254,East,Odisha,Mobiles,NovaPhone Lite,92005.2,4,11171.67,Net Banking,Marketplace
+2025-09-25,NT-10114,West,Maharashtra,Audio,Bluetooth Speaker,35068.0,4,3447.77,Credit Card,Online
+2025-09-25,NT-10199,West,Goa,Accessories,Laptop Sleeve,8468.0,2,843.43,Net Banking,Marketplace
+2025-09-26,NT-10427,West,Gujarat,Smart Home,Security Camera,14253.8,2,2411.63,Credit Card,Marketplace
+2025-09-27,NT-10074,North,Delhi,Mobiles,NovaPhone Lite,44442.9,2,2239.98,Net Banking,Marketplace
+2025-09-28,NT-10077,East,Odisha,Laptops,NovaBook Air,155336.4,4,24070.94,Debit Card,Marketplace
+2025-09-28,NT-10409,South,Telangana,Mobiles,NovaPhone X,39022.0,2,6934.53,Cash,Retail Store
+2025-09-28,NT-10034,West,Gujarat,Smart Home,Smart Bulb,3225.0,1,596.1,Credit Card,Marketplace
+2025-09-28,NT-10003,West,Rajasthan,Laptops,NovaBook Air,122010.3,3,7971.12,Net Banking,Online
+2025-09-29,NT-10456,South,Telangana,Audio,Bluetooth Speaker,25660.0,4,2816.45,Credit Card,Online
+2025-09-30,NT-10368,West,Gujarat,Smart Home,Smart Plug,7085.0,1,1315.8,Credit Card,Retail Store
+2025-10-01,NT-10048,Central,Uttar Pradesh,Accessories,Keyboard,16553.75,5,3055.51,Net Banking,Retail Store
+2025-10-02,NT-10435,West,Goa,Audio,NovaBuds,12860.5,2,1132.58,Debit Card,Marketplace
+2025-10-04,NT-10319,North,Punjab,Audio,Studio Headphones,19337.25,3,3091.11,Net Banking,Marketplace
+2025-10-04,NT-10023,West,Gujarat,Audio,Bluetooth Speaker,9840.0,4,1946.32,Debit Card,Retail Store
+2025-10-04,NT-10301,South,Kerala,Laptops,NovaBook Go,62721.5,1,9368.5,Credit Card,Online
+2025-10-05,NT-10460,West,Maharashtra,Smart Home,Smart Plug,1824.3,1,177.93,Debit Card,Marketplace
+2025-10-06,NT-10442,Central,Uttar Pradesh,Smart Home,Security Camera,9574.2,3,803.7,Credit Card,Retail Store
+2025-10-07,NT-10087,North,Punjab,Accessories,Laptop Sleeve,11248.05,3,1471.1,Debit Card,Retail Store
+2025-10-07,NT-10228,West,Gujarat,Laptops,NovaBook Air,78908.0,2,6534.21,Net Banking,Retail Store
+2025-10-07,NT-10499,West,Maharashtra,Accessories,Keyboard,838.1,2,48.71,Cash,Online
+2025-10-07,NT-10339,Central,Uttar Pradesh,Mobiles,NovaPhone Pro,52347.6,4,8039.39,UPI,Marketplace
+2025-10-07,NT-10361,West,Gujarat,Smart Home,Security Camera,23039.4,3,1721.79,Net Banking,Online
+2025-10-08,NT-10354,West,Maharashtra,Audio,NovaBuds,55035.0,5,6650.04,Credit Card,Marketplace
+2025-10-10,NT-10316,West,Rajasthan,Smart Home,Smart Bulb,9434.0,2,800.89,Credit Card,Online
+2025-10-10,NT-10176,North,Delhi,Audio,NovaBuds,31574.2,4,3189.91,Credit Card,Retail Store
+2025-10-10,NT-10133,Central,Uttar Pradesh,Audio,Bluetooth Speaker,38692.8,4,6950.66,Debit Card,Online
+2025-10-11,NT-10322,Central,Madhya Pradesh,Mobiles,NovaPhone Pro,84868.0,4,7273.14,Debit Card,Online
+2025-10-11,NT-10164,West,Maharashtra,Accessories,Laptop Sleeve,7452.0,5,788.44,UPI,Marketplace
+2025-10-11,NT-10158,East,West Bengal,Smart Home,Security Camera,6086.0,2,1094.69,Debit Card,Retail Store
+2025-10-12,NT-10468,West,Goa,Laptops,NovaBook Go,96114.6,3,13412.85,UPI,Marketplace
+2025-10-13,NT-10169,South,Karnataka,Laptops,NovaBook Air,132199.2,4,15878.56,Cash,Online
+2025-10-13,NT-10320,East,Bihar,Audio,Studio Headphones,54886.25,5,8223.59,Credit Card,Retail Store
+2025-10-15,NT-10392,East,West Bengal,Mobiles,NovaPhone Pro,134632.8,4,26236.56,UPI,Online
+2025-10-15,NT-10363,Central,Madhya Pradesh,Accessories,Wireless Mouse,561.0,1,63.12,Net Banking,Online
+2025-10-16,NT-10300,North,Delhi,Accessories,Wireless Mouse,17023.5,5,2021.86,UPI,Marketplace
+2025-10-16,NT-10106,East,Jharkhand,Audio,Bluetooth Speaker,20155.0,5,3528.21,Cash,Retail Store
+2025-10-16,NT-10479,Central,Uttar Pradesh,Laptops,NovaBook Air,288414.0,4,47767.0,Credit Card,Online
+2025-10-17,NT-10449,North,Haryana,Laptops,NovaBook Air,177170.0,5,31394.81,Debit Card,Marketplace
+2025-10-17,NT-10489,East,West Bengal,Laptops,NovaBook Go,52170.2,1,10125.61,UPI,Online
+2025-10-20,NT-10119,Central,Chhattisgarh,Smart Home,Smart Plug,3455.25,1,622.68,UPI,Retail Store
+2025-10-21,NT-10021,East,West Bengal,Audio,Studio Headphones,7886.3,2,560.14,Credit Card,Retail Store
+2025-10-21,NT-10227,Central,Chhattisgarh,Mobiles,NovaPhone Pro,95058.0,2,12223.67,UPI,Marketplace
+2025-10-22,NT-10200,North,Punjab,Accessories,USB-C Hub,5054.1,3,879.66,Cash,Retail Store
+2025-10-23,NT-10081,West,Rajasthan,Accessories,Keyboard,2520.0,4,221.41,UPI,Retail Store
+2025-10-25,NT-10256,South,Karnataka,Mobiles,NovaPhone Pro,124159.5,3,10526.04,Net Banking,Marketplace
+2025-10-26,NT-10370,North,Uttar Pradesh,Laptops,NovaBook Air,141251.4,2,14637.76,Net Banking,Marketplace
+2025-10-28,NT-10094,West,Gujarat,Accessories,Laptop Sleeve,7172.5,2,541.51,UPI,Marketplace
+2025-10-29,NT-10341,West,Rajasthan,Mobiles,NovaPhone Lite,117939.0,3,9221.69,Credit Card,Retail Store
+2025-10-31,NT-10274,South,Kerala,Smart Home,Smart Plug,24072.0,3,1369.49,Net Banking,Online
+2025-10-31,NT-10265,South,Kerala,Smart Home,Security Camera,28823.5,5,3817.93,UPI,Marketplace
+2025-10-31,NT-10076,South,Kerala,Smart Home,Smart Plug,4902.95,1,913.23,Credit Card,Online
+2025-10-31,NT-10302,East,Jharkhand,Accessories,Laptop Sleeve,8564.25,3,524.16,Credit Card,Online
+2025-10-31,NT-10324,West,Goa,Laptops,NovaBook Air,156063.4,4,28444.99,Debit Card,Marketplace
+2025-11-01,NT-10405,Central,Madhya Pradesh,Laptops,NovaBook Pro,239847.0,3,22120.52,Net Banking,Retail Store
+2025-11-02,NT-10378,Central,Chhattisgarh,Audio,Bluetooth Speaker,9666.0,1,1905.17,UPI,Online
+2025-11-03,NT-10043,West,Rajasthan,Accessories,USB-C Hub,15272.2,4,1934.62,Credit Card,Marketplace
+2025-11-03,NT-10187,West,Rajasthan,Accessories,Wireless Mouse,4072.65,1,644.33,Cash,Retail Store
+2025-11-04,NT-10248,South,Tamil Nadu,Smart Home,Smart Plug,28641.6,4,4859.13,UPI,Retail Store
+2025-11-04,NT-10425,South,Karnataka,Mobiles,NovaPhone X,101188.3,2,5908.06,Debit Card,Online
+2025-11-05,NT-10018,North,Uttar Pradesh,Smart Home,Smart Bulb,2575.0,1,460.78,UPI,Marketplace
+2025-11-06,NT-10068,Central,Chhattisgarh,Smart Home,Smart Plug,7144.0,1,743.92,Debit Card,Online
+2025-11-06,NT-10294,South,Tamil Nadu,Audio,NovaBuds,39757.5,5,4470.27,Debit Card,Retail Store
+2025-11-07,NT-10424,East,West Bengal,Mobiles,NovaPhone Lite,164840.2,4,24246.16,Net Banking,Online
+2025-11-09,NT-10381,North,Delhi,Audio,NovaBuds,6382.8,1,843.51,Debit Card,Marketplace
+2025-11-10,NT-10025,East,West Bengal,Smart Home,Smart Bulb,5210.75,1,305.0,Cash,Online
+2025-11-10,NT-10402,South,Kerala,Audio,NovaBuds,3617.1,1,201.41,UPI,Online
+2025-11-11,NT-10191,East,Jharkhand,Smart Home,Security Camera,4894.2,2,409.79,Debit Card,Retail Store
+2025-11-12,NT-10380,East,West Bengal,Audio,Bluetooth Speaker,15206.5,2,2395.0,Debit Card,Marketplace
+2025-11-12,NT-10050,South,Karnataka,Smart Home,Smart Bulb,7290.3,2,434.75,Net Banking,Retail Store
+2025-11-13,NT-10323,East,Jharkhand,Laptops,NovaBook Go,52380.0,1,5372.73,UPI,Marketplace
+2025-11-14,NT-10184,Central,Chhattisgarh,Mobiles,NovaPhone Pro,69530.5,5,10918.98,Net Banking,Marketplace
+2025-11-14,NT-10197,North,Uttar Pradesh,Accessories,Laptop Sleeve,11510.0,5,2152.19,Credit Card,Retail Store
+2025-11-14,NT-10441,West,Rajasthan,Laptops,NovaBook Pro,246284.0,4,39538.15,UPI,Online
+2025-11-15,NT-10434,South,Kerala,Accessories,Wireless Mouse,10527.25,5,1418.03,Cash,Retail Store
+2025-11-16,NT-10041,North,Punjab,Accessories,Laptop Sleeve,13198.5,5,1456.59,Debit Card,Marketplace
+2025-11-17,NT-10385,West,Gujarat,Audio,Studio Headphones,20638.75,5,1352.52,Cash,Marketplace
+2025-11-18,NT-10391,East,Jharkhand,Smart Home,Smart Bulb,5459.65,1,880.98,Cash,Retail Store
+2025-11-19,NT-10351,West,Goa,Accessories,Keyboard,1857.25,1,284.06,Net Banking,Marketplace
+2025-11-19,NT-10358,West,Goa,Smart Home,Security Camera,18440.0,4,2398.44,Debit Card,Online
+2025-11-20,NT-10222,West,Gujarat,Laptops,NovaBook Go,385329.5,5,51176.34,Debit Card,Retail Store
+2025-11-21,NT-10229,Central,Chhattisgarh,Laptops,NovaBook Go,122502.0,4,6342.87,Cash,Marketplace
+2025-11-21,NT-10496,South,Tamil Nadu,Smart Home,Smart Plug,4247.45,1,381.2,Cash,Online
+2025-11-21,NT-10487,Central,Uttar Pradesh,Laptops,NovaBook Air,281221.2,4,16131.65,Credit Card,Marketplace
+2025-11-22,NT-10238,West,Gujarat,Accessories,Keyboard,8861.25,3,556.97,Cash,Retail Store
+2025-11-22,NT-10408,North,Punjab,Smart Home,Smart Plug,12294.0,2,1005.16,Cash,Online
+2025-11-23,NT-10097,West,Maharashtra,Mobiles,NovaPhone Lite,66587.4,2,13244.49,Debit Card,Online
+2025-11-23,NT-10154,Central,Madhya Pradesh,Smart Home,Smart Plug,26703.6,4,5264.77,Debit Card,Marketplace
+2025-11-24,NT-10113,West,Gujarat,Smart Home,Smart Bulb,4747.5,5,563.56,UPI,Online
+2025-11-25,NT-10046,West,Gujarat,Audio,Bluetooth Speaker,3180.0,2,530.31,Credit Card,Online
+2025-11-27,NT-10011,West,Goa,Laptops,NovaBook Pro,257380.0,5,39132.7,UPI,Marketplace
+2025-11-27,NT-10170,North,Punjab,Smart Home,Smart Bulb,22348.2,4,3695.83,Cash,Online
+2025-12-02,NT-10500,East,Bihar,Accessories,USB-C Hub,1382.1,2,270.42,Cash,Marketplace
+2025-12-04,NT-10085,South,Kerala,Laptops,NovaBook Go,174289.95,3,30537.1,Net Banking,Online
+2025-12-04,NT-10292,West,Rajasthan,Laptops,NovaBook Pro,64354.9,1,6767.12,Debit Card,Online
+2025-12-04,NT-10251,South,Telangana,Laptops,NovaBook Air,131581.7,2,25661.28,Debit Card,Retail Store
+2025-12-06,NT-10168,Central,Uttar Pradesh,Accessories,Wireless Mouse,8142.45,3,1376.52,Cash,Online
+2025-12-06,NT-10056,North,Uttar Pradesh,Laptops,NovaBook Pro,149082.0,3,24320.49,Credit Card,Online
+2025-12-06,NT-10285,West,Rajasthan,Audio,Studio Headphones,21650.0,5,1136.7,UPI,Online
+2025-12-07,NT-10476,North,Delhi,Audio,Studio Headphones,28350.0,4,5398.76,Credit Card,Marketplace
+2025-12-08,NT-10404,West,Maharashtra,Accessories,Wireless Mouse,2240.0,5,366.0,Cash,Online
+2025-12-08,NT-10394,North,Delhi,Audio,NovaBuds,19836.0,2,2266.78,Cash,Retail Store
+2025-12-08,NT-10364,West,Gujarat,Smart Home,Security Camera,12790.0,2,1217.19,UPI,Marketplace
+2025-12-09,NT-10211,Central,Madhya Pradesh,Laptops,NovaBook Go,109073.7,3,14106.11,Credit Card,Online
+2025-12-10,NT-10020,North,Haryana,Mobiles,NovaPhone X,119277.0,3,18011.39,UPI,Online
+2025-12-10,NT-10099,South,Telangana,Accessories,USB-C Hub,2390.0,2,230.25,Net Banking,Online
+2025-12-11,NT-10096,North,Haryana,Accessories,USB-C Hub,7267.5,3,1115.9,Net Banking,Retail Store
+2025-12-11,NT-10029,Central,Madhya Pradesh,Laptops,NovaBook Air,235710.0,5,42929.77,Credit Card,Retail Store
+2025-12-12,NT-10261,West,Goa,Mobiles,NovaPhone Pro,89398.75,5,6960.86,Cash,Marketplace
+2025-12-12,NT-10136,Central,Uttar Pradesh,Audio,Studio Headphones,8424.6,1,827.54,Net Banking,Marketplace
+2025-12-12,NT-10054,Central,Uttar Pradesh,Audio,Studio Headphones,2731.25,1,491.7,Credit Card,Online
+2025-12-12,NT-10243,South,Telangana,Audio,NovaBuds,17691.0,3,1328.26,Debit Card,Retail Store
+2025-12-12,NT-10438,South,Telangana,Laptops,NovaBook Pro,63676.05,1,12073.15,Net Banking,Marketplace
+2025-12-14,NT-10172,North,Delhi,Smart Home,Smart Bulb,5836.8,3,594.79,Cash,Retail Store
+2025-12-15,NT-10340,East,West Bengal,Audio,Bluetooth Speaker,16485.75,3,2946.58,UPI,Online
+2025-12-15,NT-10002,South,Tamil Nadu,Laptops,NovaBook Air,204131.75,5,16956.43,Cash,Retail Store
+2025-12-15,NT-10239,North,Uttar Pradesh,Mobiles,NovaPhone Pro,63004.95,3,10140.54,Debit Card,Retail Store
+2025-12-15,NT-10291,North,Punjab,Accessories,Wireless Mouse,9460.8,4,1483.91,Cash,Marketplace
+2025-12-15,NT-10461,East,Jharkhand,Accessories,Keyboard,11650.8,3,2075.38,Credit Card,Marketplace
+2025-12-16,NT-10421,South,Kerala,Smart Home,Smart Plug,14768.0,4,1882.91,Net Banking,Online
+2025-12-17,NT-10075,East,West Bengal,Smart Home,Security Camera,5202.0,2,315.64,Credit Card,Retail Store
+2025-12-18,NT-10246,Central,Madhya Pradesh,Accessories,Keyboard,8624.1,3,1050.86,Credit Card,Retail Store
+2025-12-18,NT-10140,Central,Uttar Pradesh,Accessories,Wireless Mouse,5550.5,2,384.89,UPI,Retail Store
+2025-12-20,NT-10390,East,Bihar,Laptops,NovaBook Air,239358.0,3,36762.81,Debit Card,Online
+2025-12-21,NT-10377,South,Telangana,Audio,Bluetooth Speaker,5926.2,3,654.8,Credit Card,Online
+2025-12-21,NT-10423,North,Punjab,Mobiles,NovaPhone X,39322.8,2,5517.11,UPI,Marketplace
+2025-12-23,NT-10482,West,Rajasthan,Laptops,NovaBook Pro,383234.75,5,50411.88,Debit Card,Marketplace
+2025-12-25,NT-10181,North,Haryana,Smart Home,Smart Bulb,14272.2,2,2348.9,Debit Card,Online
+2025-12-25,NT-10132,North,Delhi,Mobiles,NovaPhone X,71044.8,3,11653.64,UPI,Online
+2025-12-26,NT-10359,North,Uttar Pradesh,Accessories,USB-C Hub,4055.4,2,392.62,UPI,Retail Store
+2025-12-26,NT-10122,East,Odisha,Mobiles,NovaPhone Lite,35340.0,3,4769.07,Net Banking,Online
+2025-12-26,NT-10014,East,Jharkhand,Laptops,NovaBook Go,38097.9,1,3273.29,Credit Card,Marketplace
+2025-12-26,NT-10063,Central,Uttar Pradesh,Audio,Studio Headphones,25239.6,4,1950.41,Credit Card,Retail Store
+2025-12-26,NT-10252,North,Punjab,Laptops,NovaBook Air,130087.3,2,15202.88,Net Banking,Retail Store
+2025-12-30,NT-10038,North,Punjab,Accessories,Laptop Sleeve,9919.8,3,1893.55,UPI,Retail Store
+2025-12-31,NT-10313,North,Punjab,Accessories,USB-C Hub,4050.8,1,794.35,UPI,Online
+2025-12-31,NT-10420,West,Maharashtra,Audio,Bluetooth Speaker,6128.1,1,1073.83,Debit Card,Marketplace
